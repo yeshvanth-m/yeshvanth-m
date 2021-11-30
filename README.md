@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yeshvanth M
-- 👀 I’m interested in VLSI, Embedded Systems, IoT
+- 👀 I’m interested in Embedded Systems, FPGAs and IoT
 - 🌱 I’m currently learning Embedded Software Development and HDLs for FPGA Design
 - 💞️ I’m looking to collaborate on some embedded projects
 - 📫 How to reach me LinkedIn - linkedin.com/in/yeshvanth-muniraj/
